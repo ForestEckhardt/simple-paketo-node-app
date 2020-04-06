@@ -1,0 +1,16 @@
+{
+  "name": "test-drive",
+  "version": "0.0.0",
+  "description": "test out paketo-buildpacks",
+  "main": "server.js",
+  "author": "paketo",
+  "license": "",
+  "dependencies": {
+    "leftpad": "~0.0.1"
+  },
+  "engines": {
+    "node": "~10"
+  }
+}
+
+
